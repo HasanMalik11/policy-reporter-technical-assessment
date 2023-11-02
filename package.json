@@ -1,0 +1,24 @@
+{
+  "name": "policy-reporter-technical-assessment",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/main",
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanMalik11/policy-reporter-technical-assessment.git"
+  },
+  "author": "Hasan Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasanMalik11/policy-reporter-technical-assessment/issues"
+  },
+  "homepage": "https://github.com/HasanMalik11/policy-reporter-technical-assessment#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
