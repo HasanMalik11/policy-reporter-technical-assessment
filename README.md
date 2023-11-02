@@ -1,6 +1,6 @@
 # policy-reporter-technical-assessment
 
-Hello this is my solution for the Module Three Finite State Machine problem
+Hello this is my solution for the Module Three Finite State Machine **STANDARD** problem
 
 To run this project use the following commands:
 
